@@ -1,4 +1,4 @@
 [
-  { "number": 29, "name": "ሱረቱ'ል ዓንከቡት", "arabicName": "سورة العنكبوت", "meaning": "እታ ሳሬት", "type": "መኪ" },
-  { "number": 30, "name": "ሱረቱ'ል ሩም", "arabicName": "سورة الروم", "meaning": "እቶም ሮማውያን", "type": "መደኒ" }
+  { "number": 29, "name": "ሱረቱ'ል ዓንከቡት", "arabicName": "سورة العنكبوت", "meaning": "እታ ሳሬት", "type": "Makki" },
+  { "number": 30, "name": "ሱረቱ'ል ሩም", "arabicName": "سورة الروم", "meaning": "እቶም ሮማውያን", "type": "Madani" }
 ]
